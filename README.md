@@ -1,4 +1,7 @@
 # CI-CD-Pipeline-with-Containerized-Deployment
+**Description**
+A containerized deployment pipeline that automatically builds and deploys microservices to AWS EKS using Jenkins/GitHub Actions, supports zero-downtime releases, and uses CloudFront, Route 53, and Prometheus/Grafana for secure, scalable, and reliable application delivery
+
 **Skill Set:** Docker, Kubernetes (EKS), Jenkins/GitHub Actions, AWS CloudFront, Route 53
 
 **Technology:** AWS EKS, Docker, Kubernetes, Jenkins, GitHub Actions, CloudFront, Route 53
